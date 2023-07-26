@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student aspiring to be a software engineer. Coding since 2014.
+Student aspiring to be a software engineer. Nord theme enthusiast. Coding since 2014.
 
 
 # 💻 Tech Stack:
