@@ -1,4 +1,4 @@
-# Hello
+# Hello...
 
 ## Languages etc
 
@@ -25,4 +25,8 @@
 
 ## What I'm working on
 
+- [multi-layer-perceptron](https://github.com/aiden1999/multi-layer-perceptron) | MLP to predict flooding | Python, NumPy
+
 ## What I've done
+
+- [capstone](https://github.com/aiden1999/capstone) | ETL pipeline and Streamlit app exploring Dutch domestic rail services for the year of 2024 | Python, Polars, Streamlit
